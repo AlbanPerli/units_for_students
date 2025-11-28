@@ -1,0 +1,24 @@
+{
+  "originHash" : "2ce66481507f80fbc214f07d380d813fba51347a1ba0ebc25de6acdbf435dba4",
+  "pins" : [
+    {
+      "identity" : "pappe",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/frameworklabs/Pappe.git",
+      "state" : {
+        "revision" : "0ff579cdd0b5ea3c84ae5c80c7c66edf8b9d07ad",
+        "version" : "0.3.1"
+      }
+    },
+    {
+      "identity" : "synchrosphere",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/frameworklabs/Synchrosphere",
+      "state" : {
+        "revision" : "ef89ee9532e829f6b280d872bf49fea0c86920a3",
+        "version" : "0.3.0"
+      }
+    }
+  ],
+  "version" : 3
+}
